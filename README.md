@@ -1,7 +1,5 @@
 # UofM-Fintech-Module-1
 
-# Title
-
 ## Overview and Origin
 
 ### What is the name of the company?
